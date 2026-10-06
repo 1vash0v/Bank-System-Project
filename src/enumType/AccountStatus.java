@@ -1,3 +1,4 @@
+package enumtype;
 public enum AccountStatus {
-    ACTIVE, BLOCKED, CLOSED, FROZEN;
+    ACTIVE, BLOCKED, CLOSED, FROZEN
 }
